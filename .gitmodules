@@ -1,0 +1,3 @@
+[submodule "eksi-sozluk-veri-cekme"]
+	path = eksi-sozluk-veri-cekme
+	url = https://github.com/zeynepbaydemir/eksi-sozluk-veri-cekme.git
